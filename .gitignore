@@ -1,0 +1,5 @@
+node_modules
+.tool-versions
+logs/*.log
+package-lock.json
+ngrok
